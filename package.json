@@ -3,7 +3,7 @@
   "version": "0.6.0",
   "description": "OpString is a JavaScript module for mapping and executing operations represented by character sequences.",
   "license": "MIT",
-  "author": "josephmiclaus",
+  "author": "Joseph Miclaus",
   "type": "module",
   "main": "index.js",
   "files": [
