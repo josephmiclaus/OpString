@@ -40,7 +40,7 @@ import OpString from 'opstring';
 
 ### Without a bundler
 
-Download the latest version from [Releases](https://github.com/meezwhite/OpString/releases).
+Download the latest version from [Releases](https://github.com/josephmiclaus/OpString/releases).
 
 Import OpString into your project using the `import` statement, referencing `opstring.js`.
 

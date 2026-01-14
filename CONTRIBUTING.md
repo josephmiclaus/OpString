@@ -19,11 +19,11 @@ Let's keep OpString open and inclusive. Please read and follow the [Code of Cond
 
 ## Support Questions
 
-For general support questions, check out the [Q&A section](https://github.com/meezwhite/OpMapper/discussions/categories/q-a) in Discussions.
+For general support questions, check out the [Q&A section](https://github.com/josephmiclaus/OpString/discussions/categories/q-a) in Discussions.
 
 ## Issues and Bugs
 
-If you find a bug in the source code or a mistake in the documentation, you can help by [submitting an issue](https://github.com/meezwhite/OpString/issues).
+If you find a bug in the source code or a mistake in the documentation, you can help by [submitting an issue](https://github.com/josephmiclaus/OpString/issues).
 
 Guidelines:
 
@@ -33,7 +33,7 @@ Guidelines:
 
 ## Feature Requests
 
-You can request a new feature by starting a discussion in the [Ideas section](https://github.com/meezwhite/OpString/discussions/categories/ideas) in Discussions.
+You can request a new feature by starting a discussion in the [Ideas section](https://github.com/josephmiclaus/OpString/discussions/categories/ideas) in Discussions.
 
 Guidelines:
 
@@ -57,7 +57,7 @@ Guidelines:
     # Navigate to the newly cloned directory
     cd OpString
     # Assign the original repository to a remote called upstream
-    git remote add upstream https://github.com/meezwhite/OpString
+    git remote add upstream https://github.com/josephmiclaus/OpString
     # Install dependencies
     npm i
     ```
