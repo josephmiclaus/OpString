@@ -3,7 +3,7 @@
  * 
  * @version 0.5.1
  * @license MIT
- * @copyright meezwhite
+ * @copyright Joseph Miclaus
  */
 export default class OpString {
     version = '0.5.1';
